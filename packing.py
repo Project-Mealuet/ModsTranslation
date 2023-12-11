@@ -11,15 +11,19 @@ with open('pack.mcmeta', 'w', encoding='UTF-8') as pack_meta_file:
         }
     }, pack_meta_file, ensure_ascii=False, indent=4)
 
-def zip_dir(path, ziph, ignore_file):
-    for root, dirs, files in os.walk(path):
-        for file in files:
-            if file != ignore_file:
-                relative_path = os.path.relpath(os.path.join(root, file), os.path.join(path, '..'))
-                ziph.write(os.path.join(root, file), relative_path)
+def zip_specific_items(zipf, items):
+    for item in items:
+        if os.path.isdir(item):
+            for root, dirs, files in os.walk(item):
+                for file in files:
+                    zipf.write(os.path.join(root, file),
+                               os.path.relpath(os.path.join(root, file),
+                                           os.path.join(item, '..')))
+        elif os.path.isfile(item):
+            zipf.write(item)
 
 zip_file_name = 'Minecraft-Mods-Translation-Zack.zip'
-current_script = os.path.basename(__file__)
-current_dir = '.'
+items_to_zip = ['assets', 'pack.png', 'pack.mcmeta']  # 指定要打包的目录和文件
+
 with zipfile.ZipFile(zip_file_name, 'w', zipfile.ZIP_DEFLATED) as zipf:
-    zip_dir(current_dir, zipf, current_script)
+    zip_specific_items(zipf, items_to_zip)
