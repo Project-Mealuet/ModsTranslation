@@ -21,7 +21,7 @@ jobs:
       uses: "marvinpinto/action-automatic-releases@latest"
       with:
         repo_token: "${{ secrets.GH_TOKEN }}"
-        automatic_release_tag: Auto Packing
+        automatic_release_tag: Autopacking
         prerelease: false
         files: |
           ./Minecraft-Mods-Translation-Zack.zip
