@@ -172,13 +172,13 @@
     "subtitles.handcrafted.block.hammer_wood": "敲击木头",
     "tooltip.handcrafted.bed_pillow": "右键单击以更改床的枕头颜色。",
     "tooltip.handcrafted.bed_sheet": "右键单击以更改床单。",
-    "tooltip.handcrafted.counter": "右键单击木头或石头以更改柜台表面。",
-    "tooltip.handcrafted.crockery_combo": "右键单击任何物品以放置在盘子上。",
-    "tooltip.handcrafted.cushion": "右键单击以更改块的外观。",
+    "tooltip.handcrafted.counter": "使用木头或石头右键单击以更改柜台表面。",
+    "tooltip.handcrafted.crockery_combo": "使用任何物品右键单击盘子即可放置。",
+    "tooltip.handcrafted.cushion": "右键单击以更改方块的外观。",
     "tooltip.handcrafted.hammer": "更改方块的外观。",
-    "tooltip.handcrafted.hammer_use_look": "右键单击使用锤子以更改方块的外观。",
-    "tooltip.handcrafted.hammer_use_look_shift": "Shift + 右键单击使用锤子以更改方块的外观。",
-    "tooltip.handcrafted.hammer_use_shape": "右键单击使用锤子以更改方块的形状。",
+    "tooltip.handcrafted.hammer_use_look": "使用锤子右键单击以更改方块的外观。",
+    "tooltip.handcrafted.hammer_use_look_shift": "使用锤子Shift + 右键单击以更改方块的外观。",
+    "tooltip.handcrafted.hammer_use_shape": "使用锤子右键单击以更改方块的形状。",
     "tooltip.handcrafted.place_on_furniture": "可以放置在家具上。",
-    "tooltip.handcrafted.sheet": "右键单击以更改块的外观。"
+    "tooltip.handcrafted.sheet": "右键单击以更改方块的外观。"
 }
