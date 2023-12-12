@@ -1,0 +1,10 @@
+{
+    "itemfilters.variants": "变种 [%d]",
+    "itemfilters.help_text.variants": "标签，滚轮，光标上/下键：调整高亮\n回车：选择高亮",
+    "itemfilters.help_text.filter": "过滤器（右键单击以清除）",
+    "itemfilters.help_text.nbt": "NBT字符串\n▶ 例如 { text:\"hello\", value: 1, active: true }",
+    "itemfilters.help_text.weak_nbt": "弱NBT字符串\n▶ 例如 { text:\"hello\", value: 1, active: true }\n▶ 仅检查提供的NBT字段（项目中的其他字段将被忽略）",
+    "itemfilters.help_text.regex": "正则表达式\n匹配项目ID\n▶ 例如 \"^minecraft:\" 匹配所有原版物品",
+    "itemfilters.help_text.max_count": "最大堆叠大小\n▶ 也可以包括关系运算符，例如 \"<64\" 或 \">=16\"",
+    "itemfilters.help_text.damage": "物品伤害\n▶ 也可以包括关系运算符，例如 \"<10\" 或 \">=5\"\n并且可以按百分比，例如 \">50%\""
+}

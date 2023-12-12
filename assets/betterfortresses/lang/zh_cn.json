@@ -1,0 +1,6 @@
+{
+    "Use /locate structure betterfortresses:fortress instead!": "改用 /locate structure betterfortresses:fortress 命令！",
+    "text.autoconfig.betterfortresses-fabric-1_20.title": "YUNG 的更好的下界堡垒",
+    "text.autoconfig.betterfortresses-fabric-1_20.option.general.disableVanillaFortresses": "禁用原版下界堡垒",
+    "text.autoconfig.betterfortresses-fabric-1_20.option.general.disableVanillaFortresses.@Tooltip": "是否应禁用原版下界堡垒。"
+}

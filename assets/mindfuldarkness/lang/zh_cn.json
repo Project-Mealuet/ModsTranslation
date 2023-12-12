@@ -1,0 +1,15 @@
+{
+    "screen.daytime_switcher.algorithm": "算法",
+    "screen.daytime_switcher.algorithm.grayscale_and_hsl": "灰度和HSL",
+    "screen.daytime_switcher.algorithm.grayscale_and_hsp": "灰度和HSP",
+    "screen.daytime_switcher.algorithm.grayscale_and_hsv": "灰度和HSV",
+    "screen.daytime_switcher.algorithm.grayscale_and_linear": "灰度和线性",
+    "screen.daytime_switcher.algorithm.hsl": "HSL",
+    "screen.daytime_switcher.algorithm.hsp": "HSP",
+    "screen.daytime_switcher.algorithm.hsv": "HSV",
+    "screen.daytime_switcher.algorithm.linear": "线性",
+    "screen.daytime_switcher.front_brightness": "前景亮度",
+    "screen.daytime_switcher.interface_darkness": "界面黑暗度",
+    "screen.debug.identifier": "屏幕标识：%s",
+    "screen.debug.menuType": "菜单类型：%s"
+}

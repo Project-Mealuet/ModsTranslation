@@ -1,0 +1,8 @@
+{
+    "sodium-extra.option.cloud_distance": "云渲染距离",
+    "sodium-extra.option.cloud_distance.tooltip": "控制云朵离玩家渲染的距离。",
+    "sodium-extra.option.fog_type": "雾修改类型",
+    "sodium-extra.option.fog_type.tooltip": "设置雾如何被修改。\n默认 - 就像 sodium-extra 一样\nMod 兼容 - 通过 Forge 事件，将提供更好的与 mod 的兼容性（原本是为了解决 #48 问题）\n\n警告！\n使用 Mod 兼容时，雾的设置可能会被忽略！这不是 bug！",
+    "sodium-extra.option.fog_type.default": "默认",
+    "sodium-extra.option.fog_type.mod_compat": "Mod 兼容"
+}

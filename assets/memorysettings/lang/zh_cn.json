@@ -1,0 +1,10 @@
+{
+    "warning.32bit": "您在64位系统上使用32位Java，请安装64位Java。",
+    "warning.toomuch": "分配的内存（%s MB）超过了此包的推荐值，最大允许：%s MB。您的系统的推荐内存分配为：%s MB。\n",
+    "warning.toolow": "分配的内存（%s MB）低于此包的推荐值，最小允许：%s MB。您的系统的推荐内存分配为：%s MB。\n",
+    "warning.overrecommended": "分配的内存（%s MB）超过了系统的推荐值，推荐值为：%s MB。\n",
+    "warning.underrecommended": "分配的内存（%s MB）低于系统的推荐值，推荐值为：%s MB。\n",
+    "warning.recommendedbelowmin": "您的系统的推荐内存（%s MB）低于此包所需的最小内存（%s MB），可能会导致频繁的卡顿等问题。\n",
+    "button.howto": "打开指南",
+    "button.stopremind": "停止提醒"
+}

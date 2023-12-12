@@ -1,0 +1,11 @@
+{
+    "commands.curios.drop.success": "成功丢弃 %s 槽位的物品给 %s",
+    "commands.curios.dropAll.success": "成功丢弃所有槽位的物品给 %s",
+    "commands.curios.replace.success": "成功替换 %s 槽位的 %s 物品为 %s",
+    "curios.modifiers.slots.plus.0": "+%s %s 槽位",
+    "curios.modifiers.slots.plus.1": "+%s%% %s 槽位",
+    "curios.modifiers.slots.plus.2": "+%s%% %s 槽位",
+    "curios.modifiers.slots.take.0": "-%s %s 槽位",
+    "curios.modifiers.slots.take.1": "-%s%% %s 槽位",
+    "curios.modifiers.slots.take.2": "-%s%% %s 槽位"
+}

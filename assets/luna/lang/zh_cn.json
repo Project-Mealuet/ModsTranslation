@@ -1,0 +1,8 @@
+{
+    "text.luna.domainAssigned": "世界正在共享至: [%s]",
+    "text.luna.closeServer": "停止世界共享!",
+    "text.luna.serverAlreadyClosed": "世界未公开托管",
+    "text.luna.clickToStop": "点击此处停止世界共享",
+    "text.luna.clickToStop.hover": "这将仅停止公共世界共享。局域网仍然可用。",
+    "text.luna.error": "Luna 发生错误"
+}

@@ -1,0 +1,4 @@
+{
+    "drippyloadingscreen.config.enable_early_loading": "启用 Forge 早期加载屏幕",
+    "drippyloadingscreen.config.enable_early_loading.desc": "如果禁用此选项，Drippy将强制禁用Forge的早期加载屏幕。这可能会导致一些Mod出现问题，因此如果遇到崩溃，请重新启用它。"
+}

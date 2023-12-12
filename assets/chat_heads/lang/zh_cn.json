@@ -1,0 +1,4 @@
+{
+    "text.autoconfig.chat_heads.option.handleSystemMessages": "处理系统消息",
+    "text.autoconfig.chat_heads.option.handleSystemMessages.@Tooltip": "是否允许在“纯净”的服务器消息中添加头像。\n请注意，许多服务器（例如运行FreedomChat插件的服务器）\n将玩家消息转换为服务器消息！\n只有在知道自己在做什么时才禁用此选项！"
+}

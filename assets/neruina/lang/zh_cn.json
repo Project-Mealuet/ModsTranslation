@@ -1,0 +1,9 @@
+{
+    "neruina.ticking.entity": "在位置 [x=%s, y=%s, z=%s] 检测到具有 ticking 异常的实体 [%s]。已被移除。",
+    "neruina.ticking.block_entity": "在位置 [x=%s, y=%s, z=%s] 检测到具有 ticking 异常的方块实体 [%s]。请解决。",
+    "neruina.ticking.block_state": "在随机刻触发时检测到具有 ticking 异常的方块状态 [%s]，位置为 [x=%s, y=%s, z=%s]。请解决。",
+    "neruina.ticking.player": "检测到具有 ticking 异常的玩家，%s 已被踢出服务器。",
+    "neruina.ticking.item_stack": "在槽位 [%s] 检测到具有 ticking 异常的物品堆叠 [%s]。请移除它。",
+    "neruina.kick.message": "由于您的玩家出现 ticking 异常，您已被踢出服务器。请移除引发问题的模组或联系管理员。",
+    "neruina.kick.reason": "\n\n为什么会被踢出？\n\n当普通实体出现 ticking 异常时，Neruina 会将其移除以防止服务器崩溃。但如果该实体是玩家，它将会将其踢出。如果不踢出玩家，服务器将会崩溃。"
+}

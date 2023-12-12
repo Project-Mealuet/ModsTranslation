@@ -1,0 +1,9 @@
+{
+    "config.kleeslabs.title": "KleeSlabs",
+    "config.kleeslabs.mode": "模式",
+    "config.kleeslabs.mode.tooltip": "控制 KleeSlabs 是否应始终触发，仅在潜行时触发或仅在未潜行时触发",
+    "config.kleeslabs.disabledCompat": "禁用兼容性",
+    "config.kleeslabs.disabledCompat.tooltip": "禁用与这些模组的兼容性的 ID。",
+    "config.kleeslabs.dumpSlabs": "调试导出台阶",
+    "config.kleeslabs.dumpSlabs.tooltip": "用于开发目的。设置为 true，KleeSlabs 会在世界加载时导出一个包含名称中包含 'slab' 的物品列表。"
+}

@@ -1,0 +1,9 @@
+{
+    "ftblibrary.select_image.scanning": "正在扫描图像：这可能需要几秒钟...",
+    "ftblibrary.select_image.rescan": "重新扫描图像",
+    "sidebar_group.ftblibrary.info": "FTB库 — 信息",
+    "sidebar_group.ftblibrary.cheat": "FTB库 — 作弊",
+    "sidebar_group.ftblibrary.util": "FTB库 — 实用工具",
+    "ftblibrary.gui.listSize1": "1 个物品",
+    "ftblibrary.gui.listSize": "%d 个物品"
+}

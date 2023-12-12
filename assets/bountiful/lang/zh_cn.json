@@ -1,0 +1,14 @@
+{
+    "bountiful.entry.shepherd_obj_wool_wildcard": "任意羊毛",
+    "bountiful.entry.fletcher_obj_planks": "任意木板",
+    "bountiful.entry.fletcher_obj_logs": "任意原木",
+    "bountiful.entry.shepherd_obj_bed_wildcard": "任意床",
+    "bountiful.entry.fisherman_obj_any_boat": "任意船",
+    "bountiful.entry.mapper_obj_candles": "任意蜡烛",
+    "bountiful.entry.shepherd_obj_banner_wildcard": "任意旗帜",
+    "bountiful.entry.fisherman_obj_catch_ench_book": "钓到附魔书",
+    "bountiful.entry.cleric_obj_brew_swiftness": "酿制基础的迅捷药水",
+    "bountiful.entry.cleric_obj_cure_zombie_villager": "治愈僵尸村民",
+    "bountiful.bounty.expired": "此赏金已过期。",
+    "bountiful.decree.inventor.name": "发明家"
+}

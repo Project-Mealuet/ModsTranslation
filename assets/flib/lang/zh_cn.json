@@ -1,0 +1,5 @@
+{
+    "command.flib.help.info": "这是核心模组 FutureLibrary 的命令。该模组具有许多Java功能，以支持其他模组，并包含用于支持诸如模组包等项目的子命令。",
+    "command.flib.help.perms": "您需要OP权限才能使用其他子命令。",
+    "command.flib.help.config": "查看配置位于 "
+}

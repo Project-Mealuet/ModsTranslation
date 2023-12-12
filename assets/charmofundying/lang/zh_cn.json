@@ -1,0 +1,9 @@
+{
+    "gui.charmofundying.config.xOffset.name": "水平渲染偏移",
+    "gui.charmofundying.config.xOffset.description": "玩家上渲染图腾的水平偏移。",
+    "gui.charmofundying.config.yOffset.name": "垂直渲染偏移",
+    "gui.charmofundying.config.yOffset.description": "玩家上渲染图腾的垂直偏移。",
+    "gui.charmofundying.config.renderTotem.name": "渲染装备的图腾",
+    "gui.charmofundying.config.renderTotem.description": "如果启用，将在玩家身上渲染已装备的图腾。",
+    "trinkets.slot.charm.charm": "图腾"
+}

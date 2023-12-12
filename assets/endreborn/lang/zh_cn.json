@@ -1,0 +1,22 @@
+{
+    "itemGroup.endgroup": "末地合金",
+    "tooltip.sword_flexibility": "硬度对方块的抗性增加100%",
+    "tooltip.axe_sharpness": "剥离方块的硬度消耗减少100%",
+    "tooltip.hoe_sharpness": "破坏植物的速度增加100%",
+    "tooltip.shovel_sharpness": "铲平方块的硬度消耗减少100%",
+    "gui.forbidden_arcanus.clibano.residue.tungsten": "钨",
+    "item.endreborn.endorium_nugget": "末地合金粒",
+    "item.endreborn.endorium_ingot": "末地合金锭",
+    "item.endreborn.endorium_sword": "末地合金剑",
+    "item.endreborn.endorium_axe": "末地合金斧",
+    "item.endreborn.endorium_pickaxe": "末地合金镐",
+    "item.endreborn.endorium_shovel": "末地合金锹",
+    "item.endreborn.endorium_hoe": "末地合金锄",
+    "item.endreborn.ender_boots": "末影之靴",
+    "block.endreborn.ogana_plant": "奥加纳花蕾",
+    "block.endreborn.end_moss": "苔藓末地石",
+    "block.endreborn.end_moss_block": "末地苔藓",
+    "block.endreborn.farstone": "暇石",
+    "block.endreborn.farstone_pillar": "暇石柱",
+    "advancements.endreborn.root.title": "末地合金"
+}

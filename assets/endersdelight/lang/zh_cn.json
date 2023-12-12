@@ -30,5 +30,9 @@
     "item.endersdelight.twisted_cereal": "扭曲麦片粥",
     "item.endersdelight.twisted_cereal_wood": "扭曲麦片粥",
     "item.endersdelight.uncanny_cookies": "诡异曲奇",
-    "itemGroup.endersdelighttab": "末影乐事"
+    "itemGroup.endersdelighttab": "末影乐事", 
+    "death.attack.was_watered": "%1$s 被水淹死了",
+    "tooltip.endersdelight.shulker_mollusk.tooltip": "你可以用刀杀死一个潜影贝获得潜影贝贝柱",
+    "tooltip.endersdelight.enderman_sight.tooltip": "你可以用刀杀死一个末影人获得末影人眼球",
+    "tooltip.endersdelight.mite_crust.tooltip": "你可以用刀杀死一个末影螨获得末影螨壳"
   }

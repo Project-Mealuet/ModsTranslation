@@ -1,0 +1,11 @@
+{
+    "block.backpacked.cherry_backpack_shelf": "樱花木背包架",
+    "curios.identifier.backpacked": "背包",
+    "button.categories.backpacked": "背包",
+    "backpacked.button.save": "保存",
+    "message.backpacked.occupied_back_slot": "背部槽位被其他物品占用",
+    "backpacked.backpack.rocket": "火箭",
+    "backpacked.formatter.cut_x_of_x": "已砍伐 %s / %s",
+    "backpacked.formatter.incomplete": "未完成",
+    "enchantment.backpacked.marksman": "神射手"
+}

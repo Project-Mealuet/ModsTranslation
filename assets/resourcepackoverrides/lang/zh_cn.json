@@ -1,0 +1,11 @@
+{
+    "packAction.copyId.description": "按住%s以复制",
+    "packAction.copyId.success": "已复制！",
+    "packAction.copyId.title": "复制包ID",
+    "packAction.reloadSettings.description": "按住%s以重新加载",
+    "packAction.reloadSettings.success": "已重新加载！",
+    "packAction.reloadSettings.title": "重新加载设置",
+    "packAction.toggleDebug.description": "按住%s以切换",
+    "packAction.toggleDebug.success": "已切换！",
+    "packAction.toggleDebug.title": "切换包ID"
+}

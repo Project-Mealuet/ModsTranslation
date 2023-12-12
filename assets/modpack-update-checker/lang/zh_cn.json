@@ -1,0 +1,11 @@
+{
+    "screen.modpack-update-checker.editor.title": "编辑器",
+    "screen.modpack-update-checker.editor.migrate-config": "迁移配置",
+    "screen.modpack-update-checker.editor.debug": "调试信息",
+    "screen.modpack-update-checker.editor.reload": "重新加载配置",
+    "screen.modpack-update-checker.editor.reload.info": "重新加载配置并重新获取在线信息和热修复。",
+    "screen.modpack-update-checker.editor.reload-hotfixes": "重新加载热修复",
+    "screen.modpack-update-checker.editor.add-modpack-mods": "添加模组包模组",
+    "screen.modpack-update-checker.editor.add-modpack-mods.info": "正在开发中：为当前加载的所有模组添加 [模组包] 徽章在模组菜单中显示。（仅适用于 Fabric/Quilt）。",
+    "button.modpack-update-checker.changelog-button.info": "模组包信息"
+}

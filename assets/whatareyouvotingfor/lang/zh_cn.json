@@ -1,0 +1,12 @@
+{
+    "entity.whatareyouvotingfor.crab": "螃蟹",
+    "entity.whatareyouvotingfor.armadillo": "犰狳",
+    "entity.whatareyouvotingfor.penguin": "企鹅",
+    "item.whatareyouvotingfor.crab_spawn_egg": "螃蟹刷怪蛋",
+    "item.whatareyouvotingfor.armadillo_spawn_egg": "犰狳刷怪蛋",
+    "item.whatareyouvotingfor.penguin_spawn_egg": "企鹅刷怪蛋",
+    "item.whatareyouvotingfor.crab_claw": "螃蟹爪",
+    "item.whatareyouvotingfor.armadillo_scute": "犰狳鳞片",
+    "item.whatareyouvotingfor.wolf_armour": "狼铠",
+    "block.whatareyouvotingfor.penguin_egg": "企鹅蛋"
+}

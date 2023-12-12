@@ -1,0 +1,10 @@
+{
+    "serverbrowser.button.next_page": "下一页：%s",
+    "serverbrowser.button.prev_page": "上一页",
+    "serverbrowser.button.register": "注册服务器",
+    "serverbrowser.button.filter": "筛选服务器",
+    "serverbrowser.button.history": "历史记录（正在开发中）",
+    "serverbrowser.button.favorite": "收藏",
+    "serverbrowser.error.unreachable_website": "当前无法访问网站",
+    "serverbrowser.server.official": "官方"
+}

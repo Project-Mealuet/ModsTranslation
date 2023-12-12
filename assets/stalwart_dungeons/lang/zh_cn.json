@@ -1,0 +1,22 @@
+{
+    "item.stalwart_dungeons.tungsten_chestplate": "§e钨胸甲",
+    "item.stalwart_dungeons.tungsten_pickaxe": "§e钨镐",
+    "item.stalwart_dungeons.cannon_pr": "加农炮 Pr",
+    "entity.stalwart_dungeons.shulker_cannon": "潜影加农炮",
+    "effect.spore": "孢子",
+    "item.minecraft.tipped_arrow.effect.spore": "孢子之箭",
+    "entity.stalwart_dungeons.spore_projectile": "孢子",
+    "item.stalwart_dungeons.tungsten_shovel": "§e钨锹",
+    "item.stalwart_dungeons.tungsten_axe": "§e钨斧",
+    "item.stalwart_dungeons.spore_bottle": "孢子瓶",
+    "block.stalwart_dungeons.giddy_statue": "惑目雕像",
+    "entity.stalwart_dungeons.giddy_blaze": "惑目烈焰人",
+    "item_group.stalwart_dungeons.stalwart_dungeons_end": "坚固地牢：末地",
+    "item.stalwart_dungeons.blaze_armor_scrap": "烈焰人盔甲碎片",
+    "block.stalwart_dungeons.ender_globe_spawn": "末影球生成",
+    "item_group.stalwart_dungeons.stalwart_dungeons": "坚固地牢：下界",
+    "item.stalwart_dungeons.ancient_fire": "§e古代火焰",
+    "item.stalwart_dungeons.shulker_cannon_item": "潜影加农炮",
+    "effect.stalwart_dungeons.spore": "孢子",
+    "item.stalwart_dungeons.spore_projectile_spawn_egg": "孢子刷怪蛋"
+}

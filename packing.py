@@ -1,13 +1,16 @@
 from json import dump
 import os
 import zipfile
+from datetime import datetime
 
+
+current_date = datetime.now().strftime('%Y/%m/%d')
 
 with open('pack.mcmeta', 'w', encoding='UTF-8') as pack_meta_file:
     dump({
         'pack': {
             'pack_format': 15, 
-            'description': '零碎的Mod翻译整理\n作者/整理：Zack Zhu'
+            'description': f'零碎的Mod翻译整理\n打包时间：{current_date}'
         }
     }, pack_meta_file, ensure_ascii=False, indent=4)
 

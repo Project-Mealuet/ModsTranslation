@@ -1,0 +1,22 @@
+{
+    "sdrp.logo": "包装标志",
+    "sdrp.mainmenu": "主菜单",
+    "sdrp.overworld.in": "在主世界中",
+    "sdrp.overworld": "主世界",
+    "sdrp.the_nether.in": "在下界中",
+    "sdrp.the_nether": "下界",
+    "sdrp.the_end.in": "在末地中",
+    "sdrp.the_end": "末地",
+    "sdrp.compact_world.in": "在压缩世界中",
+    "sdrp.compact_world": "压缩世界",
+    "sdrp.dungeon.in": "在地牢世界中",
+    "sdrp.dungeon": "地牢世界",
+    "sdrp.spatial_storage.in": "在空间存储中",
+    "sdrp.spatial_storage": "空间存储",
+    "sdrp.otherside.in": "在幽冥中",
+    "sdrp.otherside": "幽冥",
+    "sdrp.paradise_lost.in": "在失落天境中",
+    "sdrp.paradise_lost": "失落天境",
+    "sdrp.mining": "采矿维度",
+    "sdrp.mining.in": "在采矿维度中"
+}

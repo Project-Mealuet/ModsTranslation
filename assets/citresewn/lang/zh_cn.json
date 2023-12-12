@@ -1,0 +1,20 @@
+{
+    "config.citresewn.title": "CIT Resewn配置",
+    "config.citresewn.enabled.title": "启用",
+    "config.citresewn.enabled.tooltip": "是否加载并注入资源包中的CIT（自定义物品模型）",
+    "config.citresewn.mute_errors.title": "静音加载错误",
+    "config.citresewn.mute_errors.tooltip": "是否禁止CIT Resewn记录CIT错误",
+    "config.citresewn.mute_warns.title": "静音加载警告",
+    "config.citresewn.mute_warns.tooltip": "是否禁止CIT Resewn记录CIT警告",
+    "config.citresewn.citenchantment_scroll_multiplier.title": "CIT附魔：滚动倍增器",
+    "config.citresewn.citenchantment_scroll_multiplier.tooltip": "用于CIT添加的附魔效果的滚动纹理的通用倍增器。",
+    "config.citresewn.broken_paths.title": "允许资源包中的损坏路径",
+    "config.citresewn.broken_paths.tooltip": "允许加载具有非法资源路径的资源包。\n可能会导致问题！",
+    "config.citresewn.cache_ms.title": "缓存",
+    "config.citresewn.cache_ms.tooltip": "CIT缓存应刷新的频率。\n较高的值将提供更好的性能。\n较低的值将加快CIT的更新速度。\n实时 将完全删除缓存，\n使物品每帧都检查CIT。",
+    "config.citresewn.cache_ms.ticks.0": "实时",
+    "config.citresewn.cache_ms.ticks.1": "每帧",
+    "config.citresewn.cache_ms.ticks.any": "每 %s 帧",
+    "pack.incompatible.broken_paths": "（包含损坏路径）",
+    "pack.incompatible.confirm.broken_paths": "此资源包包含损坏的路径，未来可能不再支持。请联系资源包作者删除此警告。 （~ CIT Resewn）"
+}

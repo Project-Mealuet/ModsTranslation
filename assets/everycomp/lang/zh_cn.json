@@ -1,6 +1,10 @@
 {
     "itemGroup.everycomp": "泛用兼容",
     "itemGroup.everycomp.everycomp": "泛用兼容",
+
+    "tooltip.everycomp.wood_type": "木头类型：%s",
+    "tooltip.everycomp.leaf_type": "树叶类型：%s",
+    "block_type.mcwtrpdoors.barrel_trapdoor": "%s桶木活板门", 
     
     "block_type.twigs.table": "%s桌",
     

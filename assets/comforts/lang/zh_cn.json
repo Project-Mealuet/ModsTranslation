@@ -1,0 +1,22 @@
+{
+    "item.comforts.sleeping_bag.auto_use.tooltip": "自动尝试睡觉。\n要放置，请在蹲下状态下使用。",
+    "item.comforts.hammock.placement.tooltip": "需要 %s 才能放置。",
+    "item.comforts.rope_and_nail.placement.tooltip": "用于放置吊床。",
+    "block.comforts.no_sleep": "这只是装饰用的，无法在这里睡觉",
+    "gui.comforts.config.autoUse.name": "自动使用睡袋",
+    "gui.comforts.config.autoUse.description": "如果启用，玩家在放置睡袋时将自动尝试使用。",
+    "gui.comforts.config.restrictSleeping.name": "限制连续睡觉",
+    "gui.comforts.config.restrictSleeping.description": "如果启用，玩家在睡觉后一段时间内无法再次睡觉。",
+    "gui.comforts.config.restMultiplier.name": "睡意乘数",
+    "gui.comforts.config.restMultiplier.description": "如果 restrictSleeping 为 true，则此值将确定等待时间的长度（较大的数字会更早入睡）。",
+    "gui.comforts.config.hammockUse.name": "吊床使用的时间",
+    "gui.comforts.config.hammockUse.description": "吊床可以使用的时间。",
+    "gui.comforts.config.sleepingBagUse.name": "睡袋使用的时间",
+    "gui.comforts.config.sleepingBagUse.description": "可以使用睡袋的时间。",
+    "gui.comforts.config.sleepingBagBreakChance.name": "睡袋损坏几率",
+    "gui.comforts.config.sleepingBagBreakChance.description": "睡袋在使用时损坏的百分比几率。",
+    "gui.comforts.config.sleepingBagBreakChanceLuckMultiplier.name": "睡袋幸运倍数",
+    "gui.comforts.config.sleepingBagBreakChanceLuckMultiplier.description": "这个值将乘以玩家的幸运值，然后加到睡袋损坏几率上。",
+    "gui.comforts.config.sleepingBagEffects.name": "睡袋效果",
+    "gui.comforts.config.sleepingBagEffects.description": "在使用睡袋后应用于玩家的状态效果。\n格式：效果;持续时间（秒）;效果强度"
+}

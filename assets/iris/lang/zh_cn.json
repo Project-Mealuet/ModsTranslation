@@ -1,0 +1,6 @@
+{
+    "iris.load.failure.shader": "光影包加载失败！请向光影开发者报告此错误。",
+    "iris.load.failure.generic": "Iris 在尝试加载光影时遇到了问题，请向 Iris 开发者报告。",
+    "options.iris.colorSpace": "颜色空间",
+    "options.iris.colorSpace.sodium_tooltip": "将屏幕转换为的颜色空间。在光影包之上工作。如果不确定，请使用SRGB。"
+}

@@ -1,0 +1,16 @@
+{
+    "sodium.options.use_compact_vertex_format.name": "使用紧凑顶点格式",
+    "sodium.options.use_compact_vertex_format.tooltip": "如果启用，将使用更紧凑的顶点格式来渲染区块。这可以显著减少图形内存使用和带宽需求，特别是对于集成图形卡而言，但由于它降低了位置和纹理坐标属性的精度，可能会导致一些资源包出现z-fighting问题。如果安装了Oculus，则禁用此选项不起作用。",
+    "sodium.options.translucent_face_sorting.name": "半透明表面排序",
+    "sodium.options.translucent_face_sorting.tooltip": "如果启用，将正确应用来自表面的半透明效果，如彩色玻璃和水。",
+    "sodium.options.use_no_error_context.name": "使用无错误上下文",
+    "sodium.options.use_no_error_context.tooltip": "如果启用，将以禁用错误检查的方式创建OpenGL上下文。这可能会略微提高性能，但也增加了游戏在处理OpenGL错误时崩溃而不是优雅处理错误的风险。如果您遇到突然的未经解释的崩溃，应禁用此选项。",
+    "sodium.console.game_restart": "必须重新启动游戏以应用一个或多个视频设置！",
+    "sodium.console.broken_nvidia_driver": "您的NVIDIA图形驱动程序已过期！\n  * 这将导致在安装Sodium时出现严重性能问题和崩溃。\n  * 请更新您的图形驱动程序至最新版本（版本536.23或更高版本）。",
+    "sodium.console.pojav_launcher": "在使用Sodium时不支持PojavLauncher。\n  * 您很可能会遇到极端性能问题、图形错误和崩溃。\n  * 如果您决定继续使用，您将独自面对问题 -- 我们不会帮助您解决任何错误或崩溃！",
+    "sodium.console.core_shaders_error": "以下资源包与Sodium不兼容：",
+    "sodium.console.core_shaders_warn": "以下资源包可能与Sodium不兼容：",
+    "sodium.console.core_shaders_info": "详细信息请查看游戏日志。",
+    "sodium.options.chunk_memory_allocator.async": "异步",
+    "sodium.options.chunk_memory_allocator.swap": "交换"
+}
