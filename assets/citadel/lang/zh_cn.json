@@ -21,5 +21,6 @@
     "citadel.follower.none": "无",
     "citadel.follower.citadel": "太空站",
     "citadel.follower.citadel_red": "太空站（红色）",
-    "citadel.follower.citadel_gray": "太空站（灰色）"
+    "citadel.follower.citadel_gray": "太空站（灰色）",
+    "item.citadel.debug": "Citadel调试器"
 }

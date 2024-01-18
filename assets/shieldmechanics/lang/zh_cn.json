@@ -1,0 +1,14 @@
+{
+    "enchantment.shieldmechanics.block_damage_enchant": "格挡 - 盾牌",
+    "enchantment.shieldmechanics.block_damage_enchant.desc": "增加格挡的伤害吸收",
+    "enchantment.shieldmechanics.block_knock_back_enchant": "反击 - 盾牌",
+    "enchantment.shieldmechanics.block_knock_back_enchant.desc": "格挡时击退攻击者的几率",
+    "enchantment.shieldmechanics.block_slowness_enchant": "减速 - 盾牌",
+    "enchantment.shieldmechanics.block_slowness_enchant.desc": "格挡时减速攻击者的几率",
+    "enchantment.shieldmechanics.block_blind_enchant": "致盲 - 盾牌",
+    "enchantment.shieldmechanics.block_blind_enchant.desc": "格挡时致盲攻击者的几率",
+    "enchantment.shieldmechanics.block_last_resort_enchant": "最后一搏 - 盾牌",
+    "enchantment.shieldmechanics.block_last_resort_enchant.desc": "低生命值时格挡可能拯救你",
+    "shieldmechanics.blockdmgreduct": "格挡时的伤害减免: %s",
+    "shieldmechanics.holddmgreduct": "持盾时的伤害减免: %s"
+}

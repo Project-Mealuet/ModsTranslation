@@ -1,0 +1,6 @@
+{
+    "blockui.tooltip.item_additional_info": "按住 %s 以显示额外信息",
+    "blockui.tooltip.properties": "方块状态属性：",
+    "blockui.container_gui.client_side_only": "容器内容只有在集成服务器游戏时可见（单人游戏，无局域网）。",
+    "blockui.container_gui.empty": "这个容器是空的。"
+}

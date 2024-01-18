@@ -1,0 +1,23 @@
+{
+    "item.takesapillage.bastille_blues_music_disc.desc": "izofar - Bastille Blues",
+    "entity.takesapillage.clay_golem": "黏土傀儡",
+    "entity.takesapillage.skirmisher": "突袭者",
+    "subtitle.takesapillage.entity.clay_golem.damage": "黏土傀儡：受损",
+    "subtitle.takesapillage.entity.clay_golem.death": "黏土傀儡：死亡",
+    "subtitle.takesapillage.entity.clay_golem.hurt": "黏土傀儡：受伤",
+    "advancements.takesapillage.bastille.title": "Eh-eh-oh, eh-oh",
+    "advancements.takesapillage.pillager_camp.title": "篝火之歌",
+    "death.attack.clay_golem": "%1$s被%2$s打死了",
+    "death.attack.archer": "%1$s被%2$s狙杀了",
+    "death.attack.skirmisher": "%1$s被%2$s砍成了碎片",
+    "death.attack.skirmisher.item": "%1$s被%2$s用%3$s砍成了碎片",
+    "takesapillage.configGui.title": "It Takes a Pillage - 配置",
+    "takesapillage.configGui.replaceIronGolems.title": "黏土傀儡生成",
+    "takesapillage.configGui.peacefulGolemRate.title": "和平难度黏土傀儡替代",
+    "takesapillage.configGui.easyGolemRate.title": "简单难度黏土傀儡替代",
+    "takesapillage.configGui.normalGolemRate.title": "普通难度黏土傀儡替代",
+    "takesapillage.configGui.hardGolemRate.title": "困难难度黏土傀儡替代",
+    "takesapillage.configGui.removeBadOmen.title": "牛奶移除不祥征兆",
+    "takesapillage.configGui.pillageSiegesOccur.title": "掠夺袭击",
+    "instrument.takesapillage.raid_horn": "掠夺号角"
+}

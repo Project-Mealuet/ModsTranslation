@@ -1,0 +1,19 @@
+{
+    "_": "Thank you for translating Create: Enchantment Industry!",
+    "block.create_enchantment_industry.blaze_enchanter": "烈焰人附魔室",
+    "block.create_enchantment_industry.disenchanter": "祛魔池",
+    "entity.create_enchantment_industry.hyper_experience_bottle": "超越附魔之瓶",
+    "item.create_enchantment_industry.enchanting_guide": "附魔指南",
+    "item.create_enchantment_industry.hyper_experience_bottle": "超越附魔之瓶",
+    "create_enchantment_industry.ponder.enchant.text_1": "烈焰人附魔室能为你的物品附魔。",
+    "create_enchantment_industry.ponder.hyper_enchant.header": "超越附魔",
+    "create_enchantment_industry.ponder.leak.text_1": "我有满满一罐经验",
+    "create_enchantment_industry.ponder.leak.text_2": "我有一个开放式的管道",
+    "create_enchantment_industry.ponder.leak.text_3": "呃啊！",
+    "create_enchantment_industry.ponder.transform.header": "使用附魔指南",
+    "create_enchantment_industry.ponder.transform.text_3": "如需取回附魔指南，请持扳手潜行右键烈焰人附魔室。",
+    "item.create_enchantment_industry.enchanting_guide.tooltip": "附魔指南工具提示",
+    "item.create_enchantment_industry.experience_rotor.tooltip": "经验转子",
+    "create_enchantment_industry.gui.goggles.ink_consumption": "消耗墨水：%s mB",
+    "recipe.create_enchantment_industry.disenchanting": "祛魔"
+}

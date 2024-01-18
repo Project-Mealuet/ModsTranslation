@@ -175,7 +175,7 @@
     "subtitles.entity.snapper.sniff": "幽匿啮鱼嗅探",
     "subtitles.entity.stalker.ring": "追猎者回响",
     "subtitles.item.transmitter.link": "传讯器绑定",
-    "subtitles.item.transmitter.transmit": "传讯器输送", 
+    "subtitles.item.transmitter.transmit": "传讯器输送",
     "advancements.deeperdarker.find_ancient_city.description": "找到一个古代城市",
     "advancements.deeperdarker.find_ancient_city.title": "不安宁之都",
     "advancements.deeperdarker.find_ancient_temple.description": "探索深渊以寻找一个神庙",
@@ -240,4 +240,4 @@
     "tooltips.deeperdarker.sculk_transmitter.location": "位于 %1$s，%2$s，%3$s",
     "tooltips.deeperdarker.sculk_transmitter.not_linked": "未连接",
     "upgrade.deeperdarker.warden_upgrade": "监守者升级"
-  }
+}

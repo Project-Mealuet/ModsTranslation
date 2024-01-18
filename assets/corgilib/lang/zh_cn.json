@@ -1,0 +1,8 @@
+{
+    "corgilib.worldRegistryExport.exists": "世界生成导出已存在！在此查看：%s！",
+    "corgilib.worldRegistryExport.failed": "哎呀，无法创建世界生成导出，请检查您的 latest.log！",
+    "corgilib.worldRegistryExport.singleplayer": "世界生成导出命令必须在单人游戏中使用！",
+    "corgilib.worldRegistryExport.starting": "开始世界生成导出，预计服务器会出现延迟和高内存使用...",
+    "corgilib.worldRegistryExport.success": "世界生成导出成功！在这里查看文件：%s！",
+    "corgilib.clickevent.hovertext": "点击打开！"
+}

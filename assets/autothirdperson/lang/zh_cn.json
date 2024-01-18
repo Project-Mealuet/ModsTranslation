@@ -1,0 +1,6 @@
+{
+    "autothirdperson.toggle": "切换自动第三人称",
+    "autothirdperson.say_toggle": "自动第三人称 %s",
+    "autothirdperson.enabled": "已启用",
+    "autothirdperson.disabled": "已禁用"
+}

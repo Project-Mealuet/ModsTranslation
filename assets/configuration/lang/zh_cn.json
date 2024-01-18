@@ -1,0 +1,23 @@
+{
+    "text.configuration.value.true": "是",
+    "text.configuration.value.false": "否",
+    "text.configuration.value.edit": "编辑",
+    "text.configuration.value.back": "返回",
+    "text.configuration.value.revert.default": "使用默认配置",
+    "text.configuration.value.revert.default.dialog": "您确定要将配置重置为默认值吗？",
+    "text.configuration.value.revert.changes": "撤销更改",
+    "text.configuration.value.revert.changes.dialog": "您确定要放弃当前所做的更改吗？",
+    "text.configuration.value.add_element": "添加元素",
+    "text.configuration.screen.select_config": "选择配置",
+    "text.configuration.screen.dialog.confirm": "确认",
+    "text.configuration.screen.dialog.cancel": "取消",
+    "text.configuration.screen.color_dialog": "选择颜色",
+    "text.configuration.screen.color.red": "红色：%s",
+    "text.configuration.screen.color.green": "绿色：%s",
+    "text.configuration.screen.color.blue": "蓝色：%s",
+    "text.configuration.screen.color.alpha": "Alpha：%s",
+    "text.configuration.error.character_value_empty": "字符字段不能为空！",
+    "text.configuration.error.nan": "值 '%s' 不是有效的数字！",
+    "text.configuration.error.num_bounds": "值 '%s' 不在区间 <%s;%s> 内！",
+    "text.configuration.error.pattern_mismatch": "值 '%s' 不匹配模式 \\%s\\！"
+}

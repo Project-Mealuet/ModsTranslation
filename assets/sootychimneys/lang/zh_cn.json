@@ -1,0 +1,15 @@
+{
+    "block.sootychimneys.brick_chimney": "砖烟囱",
+    "block.sootychimneys.copper_chimney": "铜烟囱",
+    "block.sootychimneys.dirty_brick_chimney": "脏砖烟囱",
+    "block.sootychimneys.dirty_copper_chimney": "脏铜烟囱",
+    "block.sootychimneys.dirty_stone_brick_chimney": "脏石砖烟囱",
+    "block.sootychimneys.dirty_terracotta_chimney": "脏陶瓷烟囱",
+    "block.sootychimneys.stone_brick_chimney": "石砖烟囱",
+    "block.sootychimneys.terracotta_chimney": "陶瓷烟囱",
+    "jei.sootychimneys.category.soot_covering": "烟灰覆盖",
+    "jei.sootychimneys.category.soot_scraping": "清除烟灰",
+    "jei.sootychimneys.category.soot_scraping.soot_items_info": "可能产生副产品",
+    "message.sootychimneys.blocked": "烟囱堵塞",
+    "message.sootychimneys.open": "烟囱烟流恢复"
+}

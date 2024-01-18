@@ -1,7 +1,7 @@
 {
-    "deep_aether.item.disabled_item" : "已禁用",
+    "deep_aether.item.disabled_item": "已禁用",
     "gui.deep_aether.spooky_ring": "夜晚中离午夜越近，造成的伤害越高，最高额外造成2点伤害。\n可能会遇到些吓人的事……",
-    "item.deep_aether.spooky_ring" : "惊悚戒指",
+    "item.deep_aether.spooky_ring": "惊悚戒指",
     "item.deep_aether.skyjade_chestplate": "穹玉胸甲",
     "lore.item.deep_aether.skyjade_chestplate": "穹玉盔甲套装中的一件，护甲值很高，但耐久度相对较低，且耐久度低下时提供的保护也会减少。",
     "item.deep_aether.venomite_spawn_egg": "毒刺蝇刷怪蛋",
@@ -23,7 +23,6 @@
     "lore.block.deep_aether.chromatic_aercloud": "在神能炉中为雷蓝境云附神的产物。用于制造流云锭。",
     "block.deep_aether.sterling_aercloud": "雷蓝境云",
     "lore.block.deep_aether.sterling_aercloud": "这种境云远居高空，难以触及。而一旦踏在其上，激发出的闪电会将其变为寒风境云。在神能炉中附神后会变为虹彩境云。",
-  
     "block.deep_aether.roseroot_wall": "瑰根木墙",
     "lore.block.deep_aether.roseroot_wall": "由瑰根木合成。可用作装饰性围栏和防御工程。非常适合阻拦可恶的闯入者！",
     "block.deep_aether.aerglow_grass_block": "空光草方块",
@@ -38,7 +37,7 @@
     "lore.block.deep_aether.roseroot_fence_gate": "由瑰根木板和天根木棍合成。栅栏门是相貌朴实的通道，为你珍贵的围场提供了出入方式。",
     "itemGroup.tabdeep_aether_blocks_tab": "深入天境丨方块",
     "item.deep_aether.music_disc_nabooru": "音乐唱片",
-    "lore.item.deep_aether.music_disc_nabooru":"一张音乐唱片，会播放Emile van Krieken所作的Nabooru。",
+    "lore.item.deep_aether.music_disc_nabooru": "一张音乐唱片，会播放Emile van Krieken所作的Nabooru。",
     "item.deep_aether.skyjade": "穹玉晶石",
     "lore.item.deep_aether.skyjade": "一种尖锐的晶石，制成的工具比钻石工具更为强大，但它也很脆弱，会在耐久度下降时碎裂，工具的工作速度也会下降。",
     "item.deep_aether.skyjade_pendant": "穹玉吊坠",
@@ -174,7 +173,6 @@
     "lore.block.deep_aether.aether_mud": "这种方块主要生成于榴根森林，也可在工作台中将天泥和水瓶合成而得。",
     "block.deep_aether.clorite_pillar": "绿蔚石柱",
     "lore.block.deep_aether.clorite_pillar": "带有柱纹的绿蔚石，以2x3的形式（类似门）合成可得。",
-  
     "block.deep_aether.packed_aether_mud": "天泥坯",
     "lore.block.deep_aether.packed_aether_mud": "更为干燥且更显固态的天泥。在工作台中将天泥和空光花合成即可得到对应泥坯。",
     "block.deep_aether.aether_mud_bricks": "天泥砖",
@@ -185,7 +183,6 @@
     "lore.block.deep_aether.aether_mud_bricks_stairs": "由天泥砖合成。楼梯能让建筑更显陡峭，也经常被用作装饰！",
     "block.deep_aether.aether_mud_bricks_wall": "天泥砖墙",
     "lore.block.deep_aether.aether_mud_bricks_wall": "由天泥砖合成。可用作装饰性围栏和防御工程。非常适合阻拦可恶的闯入者！",
-  
     "block.deep_aether.polished_clorite": "磨制绿蔚石",
     "lore.block.deep_aether.polished_clorite": "天境本土的建筑材料。由绿蔚石制作而成。",
     "block.deep_aether.raw_clorite": "粗绿蔚石",
@@ -248,13 +245,11 @@
     "lore.item.deep_aether.stratus_ring": "重力晶戒指的升级版本。",
     "item.deep_aether.stratus_gloves": "流云护手",
     "lore.item.deep_aether.stratus_gloves": "重力晶护手的升级版本，完成流云套装的必需品。",
-  
     "item.deep_aether.smithing_template.stratus_upgrade.additions_slot_description": "放入流云锭",
     "item.deep_aether.smithing_template.stratus_upgrade.applies_to": "重力晶装备",
     "item.deep_aether.smithing_template.stratus_upgrade.base_slot_description": "放入重力晶盔甲、武器或工具",
     "item.deep_aether.smithing_template.stratus_upgrade.ingredients": "流云锭",
     "upgrade.deep_aether.stratus_upgrade": "流云升级",
-  
     "item.deep_aether.raw_oratie": "粗奥拉",
     "item.deep_aether.oratie_ingot": "奥拉锭",
     "block.deep_Aether.clorite_pillar": "绿蔚石柱",
@@ -315,8 +310,6 @@
     "lore.item.deep_aether.cruderoot_boat": "虽然天境没有大面积的水体，但船只依然是冰上长距旅行的有用工具！",
     "item.deep_aether.cruderoot_chest_boat": "油根木运输船",
     "lore.item.deep_aether.cruderoot_chest_boat": "后座带有便捷箱子的油根木船。极适用于水上长途运输大量物品，不过天境中大面积水体是出了名的难找。",
-  
-  
     "block.deep_aether.conberry_log": "孪团原木",
     "lore.block.deep_aether.conberry_log": "它会随孪团树生成。使用孪团木斧可双倍掉落。放入工作台能合成得4个孪团木板。",
     "block.deep_aether.conberry_wood": "孪团木",
@@ -359,7 +352,6 @@
     "lore.item.deep_aether.conberry_boat": "虽然天境没有大面积的水体，但船只依然是冰上长距旅行的有用工具！",
     "item.deep_aether.conberry_chest_boat": "孪团木运输船",
     "lore.item.deep_aether.conberry_chest_boat": "后座带有便捷箱子的孪团木船。极适用于水上长途运输大量物品，不过天境中大面积水体是出了名的难找。",
-  
     "block.deep_aether.sunroot_log": "晖根原木",
     "lore.block.deep_aether.sunroot_log": "它会随晖根树生成。使用晖根木斧可双倍掉落。放入工作台能合成得4个晖根木板。",
     "block.deep_aether.sunroot_wood": "晖根木",
@@ -403,7 +395,6 @@
     "item.deep_aether.sunroot_chest_boat": "晖根木运输船",
     "lore.item.deep_aether.sunroot_chest_boat": "后座带有便捷箱子的晖根木船。极适用于水上长途运输大量物品，不过天境中大面积水体是出了名的难找。",
     "block.deep_aether.sunroot_hanger": "晖根垂藤",
-  
     "item.deep_aether.raw_quail": "生鹌鹑",
     "lore.item.deep_aether.raw_quail": "杀死鹌鹑后获得，是天境中鸡的等价物。",
     "item.deep_aether.cooked_quail": "熟鹌鹑",
@@ -417,7 +408,6 @@
     "block.deep_aether.big_holystone_bricks_slab": "大型圣石砖台阶",
     "block.deep_aether.big_holystone_bricks_stairs": "大型圣石砖楼梯",
     "block.deep_aether.big_holystone_bricks_wall": "大型圣石砖墙",
-  
     "block.deep_aether.chiseled_holystone": "雕纹圣石",
     "block.deep_aether.holystone_pillar": "圣石柱",
     "block.deep_aether.holystone_pillar_up": "圣石柱顶",
@@ -426,7 +416,6 @@
     "lore.block.deep_aether.aether_cattails": "出现于榴根沼泽的青色花朵。可栽种于花盆用作装饰，也可合成青色染料。",
     "block.deep_aether.tall_aether_cattails": "高天蒲",
     "lore.block.deep_aether.tall_aether_cattails": "出现于榴根沼泽的青色花朵。可栽种于花盆用作装饰，也可合成青色染料。",
-  
     "entity.deep_aether.chest_boat": "运输船",
     "block.deep_aether.holystone_bricks_slab": "圣石砖台阶",
     "block.deep_aether.holystone_bricks_stairs": "圣石砖楼梯",
@@ -442,7 +431,6 @@
     "block.deep_aether.vertical_roseroot_planks": "竖纹瑰根木板",
     "block.deep_aether.aseterite_vertical_slab": "紫菀石竖直台阶",
     "block.deep_aether.polished_aseterite_vertical_slab": "磨制紫菀石竖直台阶",
-  
     "block.deep_aether.holystone_bricks_vertical_slab": "圣石砖竖直台阶",
     "block.deep_aether.aether_mud_bricks_vertical_slab": "天泥砖竖直台阶",
     "block.deep_aether.cruderoot_vertical_slab": "油根木竖直台阶",
@@ -505,19 +493,16 @@
     "lore.item.deep_aether.stratus_shovel": "重力晶锹的升级版本，这把锹因能让泥土沙子类方块飘浮而独特！而附上诸如效率的魔咒时，还能瞬间破坏天泥！",
     "item.deep_aether.gravitite_ring": "重力晶戒指",
     "lore.item.deep_aether.gravitite_ring": "强大的戒指，能加强流云盔甲的冲刺和重力晶盔甲的跳跃提升。",
-  
     "block.deep_aether.blue_roseroot_leaves": "蓝色瑰根树叶",
     "lore.block.deep_aether.blue_roseroot_leaves": "这种树叶会随蓝色瑰根树生成。在枯萎时会掉落蓝色瑰根树苗。",
     "block.deep_aether.flowering_blue_roseroot_leaves": "盛开的蓝色瑰根树叶",
     "lore.block.deep_aether.flowering_blue_roseroot_leaves": "这种树叶会随蓝色瑰根树生成。在枯萎时会掉落空光花。会发光。",
     "block.deep_aether.blue_roseroot_sapling": "蓝色瑰根树苗",
     "lore.block.deep_aether.blue_roseroot_sapling": "这种小型蓝色树苗能长成瑰根树。可用骨粉催熟。",
-  
     "item.deep_aether.aerglow_fish_bucket": "天鳞桶",
     "lore.item.deep_aether.aerglow_fish_bucket": "装有天鳞的桶。一定要记得装满水，否则你的新朋友可能挺不过你回家的这段路了！",
     "item.deep_aether.skyroot_aerglow_fish_bucket": "天根天鳞桶",
     "lore.item.deep_aether.skyroot_aerglow_fish_bucket": "装有天鳞的桶。一定要记得装满水，否则你的新朋友可能挺不过你回家的这段路了！",
-  
     "itemGroup.deep_aether.deep_aether_blocks": "深入天境丨方块",
     "itemGroup.deep_aether.deep_aether_items": "深入天境丨物品",
     "item.deep_aether.roseroot_boat": "瑰根木船",
@@ -528,8 +513,6 @@
     "advancements.deep_aether.explore_aether.description": "探索所有天境生物群系",
     "advancements.deep_aether.stratus_armor.title": "阳光护体",
     "advancements.deep_aether.stratus_armor.description": "获得一整套流云盔甲",
-  
-  
     "block.deep_aether.holystone_tiles": "圣石瓦",
     "lore.block.deep_aether.holystone_tiles": "圣石的瓦纹变种。可用作装饰。",
     "block.deep_aether.holystone_tile_stairs": "圣石瓦楼梯",
@@ -570,7 +553,6 @@
     "lore.block.deep_aether.frosted_holystone_brick_slab": "由寒霜圣石砖合成。台阶是半格高的方块，常用于装饰和建造缓坡。试着用它去建造屋顶吧！",
     "block.deep_aether.frosted_holystone_brick_wall": "寒霜圣石砖墙",
     "lore.block.deep_aether.frosted_holystone_brick_wall": "由寒霜圣石砖合成。可用作装饰性围栏和防御工程。非常适合阻拦可恶的闯入者！",
-  
     "block.deep_aether.mossy_holystone_tiles": "苔圣石瓦",
     "lore.block.deep_aether.mossy_holystone_tiles": "圣石瓦的覆苔变种。可用作装饰。",
     "block.deep_aether.mossy_holystone_tile_stairs": "苔圣石瓦楼梯",
@@ -603,15 +585,12 @@
     "lore.block.deep_aether.frosted_holystone_tile_slab": "由寒霜圣石瓦合成。台阶是半格高的方块，常用于装饰和建造缓坡。试着用它去建造屋顶吧！",
     "block.deep_aether.frosted_holystone_tile_wall": "寒霜圣石瓦墙",
     "lore.block.deep_aether.frosted_holystone_tile_wall": "由寒霜圣石瓦合成。可用作装饰性围栏和防御工程。非常适合阻拦可恶的闯入者！",
-  
     "trim_material.deep_aether.skyjade": "穹玉质",
     "trim_material.deep_aether.stratus": "流云质",
-  
     "block.deep_aether.feather_grass": "翎羽草",
     "lore.block.deep_aether.feather_grass": "翎羽草是空叶草的变种。这是普通版本。",
     "block.deep_aether.tall_feather_grass": "高翎羽草",
     "lore.block.deep_aether.tall_feather_grass": "翎羽草是空叶草的变种。这是高大版本。",
-  
     "block.deep_aether.mini_golden_grass": "小金空叶草",
     "lore.block.deep_aether.mini_golden_grass": "金空叶草是生成于金黄高原的空叶草变种。这是小型版本。",
     "block.deep_aether.short_golden_grass": "矮金空叶草",
@@ -641,7 +620,6 @@
     "lore.block.deep_aether.golden_aspess": "天境花卉之一。据说食用后有益身心。",
     "block.deep_aether.echaisy": "紫簇菊",
     "lore.block.deep_aether.echaisy": "天境花卉之一。据说食用后有益身心。",
-  
     "item.deep_aether.squash_seeds": "倭瓜种子",
     "block.deep_aether.blue_squash": "蓝色倭瓜",
     "block.deep_aether.green_squash": "绿色倭瓜",
@@ -649,12 +627,10 @@
     "item.deep_aether.blue_squash_slice": "蓝色倭瓜片",
     "item.deep_aether.green_squash_slice": "绿色倭瓜片",
     "item.deep_aether.purple_squash_slice": "紫色倭瓜片",
-  
     "item.deep_aether.golden_grass_seeds": "金空叶草种子",
     "lore.item.deep_aether.golden_grass_seeds": "这些种子出产于金空叶草。将其与史维特球合成即可获得金黄史维特球。",
     "item.deep_aether.golden_swet_ball": "金黄史维特球",
     "lore.item.deep_aether.golden_swet_ball": "由史维特球和金空叶草种子制成的黏性球。可将天泥变为金空叶草方块。",
-  
     "biomes.deep_aether.aerglow_forest": "空光森林",
     "biomes.deep_aether.blue_aerglow_forest": "蓝色空光森林",
     "biomes.deep_aether.mystic_aerglow_forest": "神秘空光森林",
@@ -667,15 +643,9 @@
     "biome.deep_aether.aerlavender_fields": "空薰衣原野",
     "biome.deep_aether.yagroot_swamp": "榴根沼泽",
     "biome.deep_aether.golden_heights": "金黄高原",
-  
     "fluid_type.deep_aether.poison_fluid": "毒液",
-  
-  
-  
-  
     "item.deep_aether.skyjade_shield": "穹玉盾牌",
     "item.deep_aether.stratus_shield": "流云盾牌",
-  
     "block.deep_aether.roseroot_log_wall": "瑰根原木墙",
     "block.deep_aether.stripped_roseroot_log_wall": "去皮瑰根原木墙",
     "block.deep_aether.cruderoot_log_wall": "油根原木墙",
@@ -685,7 +655,7 @@
     "block.deep_aether.conberry_log_wall": "孪团原木墙",
     "block.deep_aether.stripped_conberry_log_wall": "去皮孪团原木墙",
     "block.deep_aether.sunroot_log_wall": "晖根原木墙",
-    "block.deep_aether.stripped_sunroot_log_wall": "去皮晖根原木墙", 
+    "block.deep_aether.stripped_sunroot_log_wall": "去皮晖根原木墙",
     "block.deep_aether.amberroot_log": "琥珀树原木",
     "block.deep_aether.amberroot_wood": "琥珀树木",
     "block.deep_aether.stripped_amberroot_log": "去皮琥珀树原木",
@@ -728,6 +698,4 @@
     "lore.item.deep_aether.amberroot_chest_boat": "一艘后面带有储物箱的琥珀树船。有助于在漫长的水路上运送更多物品，而在天界中，这样的水域闻名于世并且难以找到。",
     "lore.block.deep_aether.amberroot_wall": "由琥珀树制成。可用于装饰性的围墙和防御工事。非常适合阻止恶意闯入者！",
     "lore.block.deep_aether.stripped_amberroot_wall": "由琥珀树制成。可用于装饰性的围墙和防御工事。非常适合阻止恶意闯入者！"
-  }
-  
-  
+}

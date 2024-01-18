@@ -15,5 +15,10 @@
     "subtitles.twilightforest.block.wrought_iron_fence.extend": "铁器：叮当作响",
     "subtitles.twilightforest.entity.towerwood_borer.ambient": "高塔螟：嘶嘶",
     "subtitles.twilightforest.entity.towerwood_borer.death": "高塔螟：死亡",
-    "subtitles.twilightforest.entity.towerwood_borer.hurt": "高塔螟：受伤"
+    "subtitles.twilightforest.entity.towerwood_borer.hurt": "高塔螟：受伤",
+    "_cfpa.comment": "官译补丁",
+    "itemGroup.twilightforest.blocks": "暮色森林丨方块",
+    "itemGroup.twilightforest.items": "暮色森林丨物品",
+    "itemGroup.twilightforest.equipment": "暮色森林丨装备",
+    "advancement.twilightforest.root": "暮色森林"
 }

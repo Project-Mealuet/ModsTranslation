@@ -1,0 +1,17 @@
+{
+    "main_module": "主模块",
+    "main_blocks": "方块",
+    "main_blocks_halloween": "方块：万圣节",
+    "block.manyideas_halloween.autumn_leaves_carpet": "秋叶地毯",
+    "block.manyideas_halloween.gravestone": "墓碑",
+    "block.manyideas_halloween.hay_bundle": "草捆",
+    "block.manyideas_halloween.pitchfork": "草耙",
+    "block.manyideas_halloween.pumpkin_lantern": "南瓜灯笼",
+    "block.manyideas_halloween.scarecrow": "稻草人",
+    "block.manyideas_halloween.skeleton": "骷髅",
+    "block.manyideas_halloween.spider_plushi": "蜘蛛抱枕",
+    "block.manyideas_halloween.spiderweb": "蜘蛛网",
+    "block.manyideas_halloween.wreath_wheat": "麦秸花环",
+    "main_item_groups": "物品分组",
+    "itemGroup.manyideas_halloween": "万圣节的奇思妙想"
+}

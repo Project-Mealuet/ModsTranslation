@@ -23,5 +23,12 @@
     "snowrealmagic.config.accumulation.accumulatesDuringSnowstorm.desc": "只有在打雷时雪才会积累",
     "snowrealmagic.config.accumulation.maxLayers.desc": "可积累的雪的最大层数。9 表示无限",
     "snowrealmagic.config.accumulation.naturalMelting.desc": "如果雪层大于1，雪不会随时间融化",
-    "snowrealmagic.config.accumulation.snowAndIceMeltInWarmBiomes.desc": "雪和冰将在温暖的生物群系中融化\n如果安装了 Fabric Seasons 模组，则始终为 true"
+    "snowrealmagic.config.accumulation.snowAndIceMeltInWarmBiomes.desc": "雪和冰将在温暖的生物群系中融化\n如果安装了 Fabric Seasons 模组，则始终为 true",
+    "itemGroup.snowrealmagic": "雪！真实的魔法！",
+    "entity.snowrealmagic.snow": "下落中的方块",
+    "block.snowrealmagic.slab": "雪覆盖的台阶",
+    "block.snowrealmagic.stairs": "雪覆盖的楼梯",
+    "block.snowrealmagic.wall": "雪覆盖的墙",
+    "block.snowrealmagic.fence": "雪覆盖的栅栏",
+    "block.snowrealmagic.fence_gate": "雪覆盖的栅栏门"
 }
