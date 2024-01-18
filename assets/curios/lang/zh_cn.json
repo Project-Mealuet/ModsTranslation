@@ -43,5 +43,9 @@
     "curios.modifiers.bracelet": "佩戴手镯时：",
     "key.curios.category": "饰品",
     "key.curios.open.desc": "打开/关闭饰品栏",
-    "gui.curios.toggle": "可见性切换"
+    "gui.curios.toggle": "可见性切换", 
+    "curios.identifier.book": "书籍",
+	"curios.identifier.artifact": "文物",
+	"curios.identifier.pocket": "口袋",
+	"curios.identifier.scroll": "卷轴"
 }
