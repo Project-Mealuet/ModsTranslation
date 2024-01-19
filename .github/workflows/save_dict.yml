@@ -27,8 +27,9 @@ jobs:
         echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+        git remote add target git@github.com:Project-Mealuet/ModsTranslation.git
         git config --global user.email "bot@mealuet.com"
         git config --global user.name "Mealuet Bot"
         git add dict
         git commit -m "更新翻译字典"
-        git push
+        git push target HEAD:main
