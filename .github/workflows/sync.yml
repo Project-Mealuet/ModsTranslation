@@ -1,0 +1,26 @@
+name: Sync to Codeup
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checking out GitHub repository
+      uses: actions/checkout@v4.1.1
+
+    - name: Pushing to another repository
+      env:
+        TARGET_REPO: 'git@codeup.aliyun.com:65842f3085f0966eafd087f3/MinecraftTranslation/ModsTranslation.git'
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+      run: |
+        mkdir -p ~/.ssh
+        echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+
+        git remote add target "$TARGET_REPO"
+        git push target HEAD:main
