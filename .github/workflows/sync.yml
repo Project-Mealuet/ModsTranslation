@@ -21,6 +21,6 @@ jobs:
         echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan -t rsa codeup.aliyun.com >> ~/.ssh/known_hosts
-
         git remote add target "$TARGET_REPO"
+        git pull
         git push target HEAD:main
