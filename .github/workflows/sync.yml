@@ -11,6 +11,8 @@ jobs:
     steps:
     - name: Checking out GitHub repository
       uses: actions/checkout@v4.1.1
+      with:
+        fetch-depth: 0
 
     - name: Pushing to another repository
       env:
