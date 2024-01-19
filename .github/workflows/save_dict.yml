@@ -17,9 +17,9 @@ jobs:
       uses: actions/setup-python@v3
       with:
         python-version: "3.10"
-    - name: Packing
+    - name: Saving as dict
       run: python3 ./save_dict.py
-    - name: Pushing to another repository
+    - name: Pushing via git
       env:
         SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
       run: |
@@ -27,6 +27,8 @@ jobs:
         echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+        git config --global user.email "bot@mealuet.com"
+        git config --global user.name "Mealuet Bot"
         git add dict
         git commit -m "更新翻译字典"
         git push
